@@ -4,7 +4,6 @@ const app = express();
 const phantom = require('phantom');
 const asleep = require('asleep');
 
-
 // Path to screenshot folder or false (to turn off screenshots)
 const screenshots = __dirname + '/www/phantom-screenshots/';
 
