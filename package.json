@@ -1,0 +1,24 @@
+{
+  "name": "phantom-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ketchupkungen/phantom-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ketchupkungen/phantom-example/issues"
+  },
+  "homepage": "https://github.com/ketchupkungen/phantom-example#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "phantomjs-prebuilt": "^2.1.16",
+    "scraperjs": "^1.2.0"
+  }
+}
