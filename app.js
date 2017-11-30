@@ -10,7 +10,7 @@ const screenshots = __dirname + '/www/phantom-screenshots/';
 async function fillInBlocketForm(){
 
   // Create a new phantom browser
-  //const instance = await phantom.create();
+  const instance = await phantom.create();
 
   // Create a new page/tab in the brwoser
   const page = await instance.createPage();
