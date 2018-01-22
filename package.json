@@ -2,20 +2,20 @@
   "name": "phantom-example",
   "version": "1.0.0",
   "description": "Phantom-exempel",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ketchupkungen/phantom-example.git"
+    "url": "git+https://ironboy@github.com/ironboy/phantom-example.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ketchupkungen/phantom-example/issues"
+    "url": "https://github.com/ironboy/phantom-example/issues"
   },
-  "homepage": "https://github.com/ketchupkungen/phantom-example#readme",
+  "homepage": "https://github.com/ironboy/phantom-example#readme",
   "dependencies": {
     "asleep": "^1.0.3",
     "express": "^4.16.2",
