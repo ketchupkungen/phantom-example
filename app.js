@@ -12,7 +12,7 @@ async function fillInBlocketForm(){
   // Create a new phantom browser
   const instance = await phantom.create();
 
-  // Create a new page/tab in the brwoser
+  // Create a new page/tab in the browser
   const page = await instance.createPage();
 
   async function waitForPageLoad() {
@@ -93,7 +93,6 @@ async function fillInBlocketForm(){
 
   console.log("DONE");
 }
-
 
 fillInBlocketForm();
 
