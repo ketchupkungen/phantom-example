@@ -18,7 +18,7 @@
   "homepage": "https://github.com/ironboy/phantom-example#readme",
   "dependencies": {
     "asleep": "^1.0.3",
-    "express": "^4.16.2",
+    "express": "^4.19.2",
     "phantom": "^4.0.9",
     "phantomjs-prebuilt": "^2.1.16"
   }
